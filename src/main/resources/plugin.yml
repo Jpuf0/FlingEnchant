@@ -1,0 +1,5 @@
+name: Fling
+version: @version@
+main: xyz.jpuf.fling.Fling
+api-version: 1.16
+depend: [ EcoEnchants ]
